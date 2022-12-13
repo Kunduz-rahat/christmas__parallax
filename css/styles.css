@@ -64,6 +64,7 @@ body {
   font-size: var(--normal-font-size);
   background-color: var(--body-color);
   color: var(--text-color);
+  
 }
 
 h1, h2, h3 {
@@ -128,6 +129,10 @@ img {
   }
 }
 
+
+.bg-header{
+ background: var(--body-color);
+}
 
 /*     Header & Nav   */
 
@@ -353,3 +358,4 @@ row-gap: 3.5rem;
   background-color: var(--first-color-alt);
   box-shadow: 0 8px 32px hsla(210, 80% , 54%, .7);
 }
+

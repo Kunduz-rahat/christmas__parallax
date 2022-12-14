@@ -61,3 +61,6 @@ const scrollActive =()=>{
 	})
 }
 window.addEventListener('scroll', scrollActive)
+
+
+let parallax = new Rellax('.parallax')

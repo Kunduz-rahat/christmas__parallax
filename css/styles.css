@@ -728,7 +728,7 @@ z-index: var(--z-tooltip);
 
 @media screen and (min-width:1200px){
   .home{
-    height: 980px;
+    height: 880px;
   }
   .home__title{
     font-size: var(--biggest-font-size);
